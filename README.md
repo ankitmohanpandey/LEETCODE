@@ -13,3 +13,15 @@ The purpose of this repository is to:
 All solutions are organized and updated as I continue solving LeetCode problems.
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
