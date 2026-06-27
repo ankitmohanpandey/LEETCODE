@@ -20,6 +20,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,9 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
