@@ -20,6 +20,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0189-rotate-array](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0268-missing-number) |
 ## Hash Table
@@ -54,8 +55,13 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
