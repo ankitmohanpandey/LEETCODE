@@ -21,6 +21,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0136-single-number](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0268-missing-number) |
 ## Hash Table
@@ -46,6 +47,7 @@ Happy Coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0268-missing-number) |
 ## Sorting
 |  |
