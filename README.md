@@ -58,6 +58,7 @@ Happy Coding! 🚀
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,4 +67,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
