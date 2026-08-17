@@ -34,6 +34,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -47,6 +48,7 @@ Happy Coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0268-missing-number) |
 ## Sorting
