@@ -66,6 +66,7 @@ Happy Coding! 🚀
 | [0022-generate-parentheses](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0115-distinct-subsequences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0115-distinct-subsequences) |
 ## Backtracking
 |  |
 | ------- |
