@@ -24,6 +24,7 @@ Happy Coding! 🚀
 | [0136-single-number](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0268-missing-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankitmohanpandey/LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitmohanpandey/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0268-missing-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankitmohanpandey/LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -59,6 +61,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0268-missing-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankitmohanpandey/LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## String
 |  |
 | ------- |
@@ -83,6 +86,7 @@ Happy Coding! 🚀
 | [0022-generate-parentheses](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankitmohanpandey/LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
 |  |
 | ------- |
