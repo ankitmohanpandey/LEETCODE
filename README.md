@@ -39,6 +39,7 @@ Happy Coding! 🚀
 | [0029-divide-two-integers](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/ankitmohanpandey/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitmohanpandey/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -119,4 +120,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
