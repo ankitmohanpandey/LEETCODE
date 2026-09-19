@@ -41,6 +41,7 @@ Happy Coding! 🚀
 | [0189-rotate-array](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ankitmohanpandey/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankitmohanpandey/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3870-count-commas-in-range](https://github.com/ankitmohanpandey/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitmohanpandey/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
@@ -132,6 +133,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ankitmohanpandey/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Greedy
 |  |
 | ------- |
