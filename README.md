@@ -24,6 +24,7 @@ Happy Coding! 🚀
 | [0136-single-number](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0268-missing-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitmohanpandey/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankitmohanpandey/LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3525-find-x-value-of-array-ii](https://github.com/ankitmohanpandey/LEETCODE/tree/master/3525-find-x-value-of-array-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitmohanpandey/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
@@ -34,6 +35,7 @@ Happy Coding! 🚀
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0268-missing-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankitmohanpandey/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitmohanpandey/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +59,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0268-missing-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitmohanpandey/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankitmohanpandey/LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
@@ -86,6 +89,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitmohanpandey/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Trie
 |  |
 | ------- |
@@ -149,6 +153,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankitmohanpandey/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitmohanpandey/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Segment Tree
 |  |
 | ------- |
