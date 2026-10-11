@@ -25,6 +25,7 @@ Happy Coding! 🚀
 | [0189-rotate-array](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ankitmohanpandey/LEETCODE/tree/master/0268-missing-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitmohanpandey/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ankitmohanpandey/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankitmohanpandey/LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3525-find-x-value-of-array-ii](https://github.com/ankitmohanpandey/LEETCODE/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ankitmohanpandey/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -172,4 +173,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/ankitmohanpandey/LEETCODE/tree/master/1096-brace-expansion-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ankitmohanpandey/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
